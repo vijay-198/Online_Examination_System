@@ -1,0 +1,1 @@
+myPackage.classes.User
